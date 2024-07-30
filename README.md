@@ -17,9 +17,9 @@
 
 ## Screenshots
 
-<img src="https://github.com/projeto-de-algoritmos-2024/Greed_Huffman/blob/main/huffman/public/Imagem1.png?raw=true" alt="Screenshot 01" />
-<img src="https://github.com/projeto-de-algoritmos-2024/Greed_Huffman/blob/main/huffman/public/Imagem2.png?raw=true" alt="Screenshot 02" />
-<img src="https://github.com/projeto-de-algoritmos-2024/Greed_Huffman/blob/main/huffman/public/Imagem1.png?raw=true" alt="Screenshot 03" />
+<img src="https://github.com/projeto-de-algoritmos-2024/Greed_Huffman/blob/main/huffman/public/Imagem1.jpg?raw=true" alt="Screenshot 01" />
+<img src="https://github.com/projeto-de-algoritmos-2024/Greed_Huffman/blob/main/huffman/public/Imagem2.jpg?raw=true" alt="Screenshot 02" />
+<img src="https://github.com/projeto-de-algoritmos-2024/Greed_Huffman/blob/main/huffman/public/Imagem3.jpg?raw=true" alt="Screenshot 03" />
 
 
 ## Instalação
