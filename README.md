@@ -55,4 +55,4 @@ npm start
 
 ## Outros
 
-[Link para o vídeo de apresentação do projeto](https://youtu.be/w1yqZI6q5MU)
+[Link para o vídeo de apresentação do projeto](https://youtu.be/d7-ncsHju0s)

@@ -15,7 +15,7 @@ const Display = ({ mode, huffmanCodes, encodedMessage, decodedMessage, totalBits
           </div>
           <h2>Mensagem Codificada:</h2>
           <pre>{encodedMessage}</pre>
-          <h2>Total de Bits:</h2>
+          <h2>Total de Bytes:</h2>
           <pre>{totalBits}</pre>
           <h2>Tamanho da Árvore:</h2>
           <pre>{treeSize}</pre> 
