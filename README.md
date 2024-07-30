@@ -28,7 +28,7 @@
 **Framework**: React<br>
 
 ```
-git clone https://github.com/projeto-de-algoritmos-2024/Grafos2_MazeCreatorV2.git
+git clone https://github.com/projeto-de-algoritmos-2024/Greed_Huffman.git
 ```
 
 ```
