@@ -1,5 +1,3 @@
-// src/utils/huffman.js
-
 // Função para construir a árvore de Huffman
 export const buildHuffmanTree = (frequencies) => {
     let nodes = Object.keys(frequencies).map(char => ({ char, freq: frequencies[char] }));
