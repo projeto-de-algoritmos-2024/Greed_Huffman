@@ -1,4 +1,4 @@
-# MazeCreator
+# Greed Huffman
 
 **Número da Lista**: 9<br>
 **Conteúdo da Disciplina**: Algoritmos Ambiciosos<br>
